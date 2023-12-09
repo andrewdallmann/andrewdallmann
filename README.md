@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewdallmann
 - 👀 I’m interested in technology, running, personal finance, and product management.
-- 🌱 I’m currently learning about new technologies in the crypto space.
+- 🌱 I’m always learning about new technologies.
 
 <!---
 andrewdallmann/andrewdallmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
